@@ -41,7 +41,7 @@ link = "plugins/bootstrap/bootstrap.min.js"
 
 [params]
 logo = "images/logo.png"
-description = "Indie games and open source tools."
+description = "TecunHuman is an indie game development studio that creates games, open source tools, music, sound design and experimental projects"
 author = "TecunHuman"
 google_analytics_id = ""
 post_share = false

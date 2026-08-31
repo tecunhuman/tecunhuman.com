@@ -2,14 +2,14 @@ projects:
   enable: true
   title: "Projects"
   project_item:
-    - name: "Godot Audio Tools"
-      icon: "ti-volume"
-      content: "Open source audio tooling for Godot projects."
-      link: "https://github.com/nonameentername"
     - name: "Games"
       icon: "ti-game"
       content: "Original indie game experiments and releases."
       link: "https://nonameentername.itch.io/"
+    - name: "Godot Audio Tools"
+      icon: "ti-volume"
+      content: "Open source audio tooling for Godot projects."
+      link: "https://github.com/nonameentername"
     - name: "Music"
       icon: "ti-music-alt"
       content: "Music, sound design, and creative audio work."
